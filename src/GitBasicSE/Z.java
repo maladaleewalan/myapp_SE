@@ -1,4 +1,4 @@
 package GitBasicSE;
 
-public class Z {
+public class Z extends X{
 }
