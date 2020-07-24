@@ -2,6 +2,6 @@ package GitBasicSE;
 
 public class app {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello Feature2!");
     }
 }
